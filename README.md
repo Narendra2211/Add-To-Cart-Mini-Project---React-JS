@@ -4,8 +4,7 @@ The Add to Cart mini project is a simple React-based application that allows use
 This project is ideal for beginners learning useState, useRef, event handling, and list rendering in React.
 
 
-Features
-
+🎯 Features
 ✔ Add Items
 
 Users can type an item name (example: “Apple”, “Banana”) and add it to the cart list.
