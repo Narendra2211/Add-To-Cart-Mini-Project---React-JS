@@ -5,6 +5,7 @@ This project is ideal for beginners learning useState, useRef, event handling, a
 
 
 Features
+
 ✔ Add Items
 
 Users can type an item name (example: “Apple”, “Banana”) and add it to the cart list.
