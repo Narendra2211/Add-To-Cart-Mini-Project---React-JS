@@ -1,0 +1,12 @@
+
+.main button{
+    width: 10vw;
+    height: 6vh;
+    background-color: red;
+    color: white;
+    margin-left: 38vw;
+    margin-top: 75vh;
+    border: none;
+    border-radius: 50vw;
+    font-size: x-large;
+    position: absolute;
